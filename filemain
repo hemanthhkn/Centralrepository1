@@ -1,2 +1,6 @@
 this is my commit from the master branch
+<<<<<<< HEAD
 this is my wrong commit
+=======
+this is my incorrect commit to the file
+>>>>>>> parent of 0827061 (Revert "incorrct commit"(please ignore this commit))
